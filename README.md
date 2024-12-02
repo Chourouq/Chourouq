@@ -58,18 +58,21 @@
   <img src="https://img.shields.io/badge/Manjaro-%2335BF5C.svg?style=for-the-badge&logo=manjaro&logoColor=white" alt="Manjaro" />
 </div>
 
-  
 ---
 ## :octocat: GitHub Statistics
 
-<div style="display: flex; align-items: center; justify-content: center; ">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chourouq&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" style="height: 200px; width: 33%;" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Chourouq&theme=dark&hide_border=false&include_all_commits=false&count_private=true" style="height: 200px; width: 33%;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chourouq&theme=dark&hide_border=false" style="height: 200px; width: 33%;" />
-  
+<div align="center">
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Chourouq&layout=compact&theme=radical&hide_border=false" width="33%" height="200" />
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Chourouq&show_icons=true&theme=radical&hide_border=false" width="33%" height="200" />
+  <!-- GitHub Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chourouq&theme=radical&hide_border=false" width="33%" height="200" />
 </div>
 
+
 ---
+
 
 📫 How to reach me:
 - **Email**: [batiche.chourouq@gmail.com](mailto:batiche.chourouq@gmail.com) or [c_batiche@estin.dz](mailto:c_batiche@estin.dz)
