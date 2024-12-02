@@ -72,7 +72,7 @@
 ---
 
 📫 How to reach me:
-- **Email**: [batiche.chourouq@gmail.com](mailto:batiche.chourouq@gmail.com)
+- **Email**: [batiche.chourouq@gmail.com](mailto:batiche.chourouq@gmail.com) or [c_batiche@estin.dz](mailto:c_batiche@estin.dz)
 - **LinkedIn**: [Chourouq Batiche](https://www.linkedin.com/in/chourouq-batiche-bb8a2a334/)
 
 ---
