@@ -63,11 +63,11 @@
 
 <div align="center">
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Chourouq&layout=compact&theme=radical&hide_border=false" width="33%" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Chourouq&layout=compact&theme=dark&hide_border=false" width="33%" height="200" />
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Chourouq&show_icons=true&theme=radical&hide_border=false" width="33%" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Chourouq&show_icons=true&theme=dark&hide_border=false" width="33%" height="200" />
   <!-- GitHub Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chourouq&theme=radical&hide_border=false" width="33%" height="200" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chourouq&theme=dark&hide_border=false" width="33%" height="200" />
 </div>
 
 
