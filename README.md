@@ -1,6 +1,7 @@
-### Hi there 👋 I'm Chourouq Batiche
-
-Welcome to my GitHub profile! I'm passionate about software development and data science. Here you'll find my latest projects and contributions.
+<div align="center">
+  <h1>Hi there 👋 I'm Chourouq Batiche</h1>
+  <p><b>Welcome to my GitHub profile! I'm passionate about software development and data science. Here you'll find my latest projects and contributions.</b></p>
+</div>
 
 ---
 
@@ -17,6 +18,8 @@ Welcome to my GitHub profile! I'm passionate about software development and data
 - Web development (Node.js, React, Express.js).
 - Database management and optimization (PostgreSQL).
 - Data science and machine learning.
+  
+---
 
 ## 🚀 Tools & Languages
 
@@ -56,9 +59,9 @@ Welcome to my GitHub profile! I'm passionate about software development and data
 </div>
 
   
-
-
 ---
+## :octocat: GitHub Statistics
+
 <div style="display: flex; align-items: center; justify-content: center; ">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chourouq&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" style="height: 200px; width: 33%;" />
   <img src="https://github-readme-stats.vercel.app/api?username=Chourouq&theme=dark&hide_border=false&include_all_commits=false&count_private=true" style="height: 200px; width: 33%;" />
